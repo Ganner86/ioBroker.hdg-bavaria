@@ -15,7 +15,8 @@
                 { "id": "saugzuggeblaese", "name": "Saugzuggebläse", "iobType": "number", "iobRole": "level", "unit": "%", "dataid": "22030", "hdgType": "int" },
                 { "id": "betriebstunden", "name": "Betriebsstunden Kessel", "iobType": "number", "iobRole": "value", "unit": "Std", "dataid": "22011", "hdgType": "float" },
                 { "id": "leistung", "name": "Kesselleistung", "iobType": "number", "iobRole": "level", "unit": "%", "dataid": "22024", "hdgType": "int" },
-                { "id": "reinigung", "name": "Zeit bis Reinigung", "iobType": "number", "iobRole": "value", "unit": "Std", "dataid": "22025", "hdgType": "float" }
+                { "id": "reinigung", "name": "Zeit bis Reinigung", "iobType": "number", "iobRole": "value", "unit": "Std", "dataid": "22025", "hdgType": "float" },
+                { "id": "meldung", "name": "Betriebsmeldung", "iobType": "string", "iobRole": "text", "unit": "", "dataid": "20029", "hdgType": "string" }             
             ]
         }
     ],
